@@ -4,4 +4,3 @@ Beans
 Dance!
 Finish!
 Rice
-Burritos
